@@ -35,6 +35,7 @@ Two mobile applications were employed to gather attributes of E-Scooter trips, e
 
 ## Sample Data Visualisation
 A sample E-Scooter trip (Trip 27) is analysed and visualised in the pictures below.
+
 ![datasets](./img/visualisation.png)
 
 This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. 

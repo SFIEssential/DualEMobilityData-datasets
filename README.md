@@ -31,7 +31,9 @@ Two mobile applications were employed to gather attributes of E-Scooter trips, e
 - **Data Integration**: Integrating data from mobile applications using timestamps.
 - **Weather Data Incorporation & Data Generation**: Employing methods similar to the E-Bike dataset.
 
-This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. Please follow the contribution guidelines for submitting your improvements or use cases.
+  
+
+This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. 
 
 # _Data Regulation & Ethics Statement_
 

@@ -26,12 +26,11 @@ Our E-Scooter dataset features the Mi Electric Scooter Pro 2, equipped with a 60
 Data attributes were collected using two mobile applications: Mi Home for the Xiaomi E-Scooter Mi Home App and GPS-Tracker Pro for tracking GPS-Tracker Pro.
 
 ### Data Processing
-The process includes:
 
-Digit Extraction: Using pytesseract Pytesseract for SOC extraction.
-Data Integration: Integrating data from mobile applications using timestamps.
-Weather Data Incorporation & Data Generation: Employing methods similar to the E-Bike dataset.
-Usage and Contribution
+- **Digit Extraction**: Using [pytesseract](https://pypi.org/project/pytesseract/) for SOC extraction.
+- **Data Integration**: Integrating data from mobile applications using timestamps.
+- **Weather Data Incorporation & Data Generation**: Employing methods similar to the E-Bike dataset.
+
 This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. Please follow the contribution guidelines for submitting your improvements or use cases.
 
 # _Data Regulation & Ethics Statement   _

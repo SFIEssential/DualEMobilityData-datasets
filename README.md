@@ -2,13 +2,13 @@
 Welcome to our repository focused on E-Bike and E-Scooter trips. We aim to offer open-source datasets for E-Mobility research, particularly in urban commuting using electric bikes and scooters. These datasets, collected around Dublin City University, consider key factors influencing energy consumption.
 
 # Dataset Description
-Our datasets are divided into two parts: E-Bike and E-Scooter trips, totaling 36 and 30 trips, respectively. The E-Bike data were collected using the Electric Trekking Bike T1 of [Eleglide](https://eleglide.com/products/removable-battery-100km-range-electric-trekking-touring-bike-t1) E-bike, and the E-Scooter data from the [Mi Electric Scooter Pro 2](https://www.xiaomi.ie/mi-electric-scooter-pro-2/) of Xiaomi E-Scooter.
+Our datasets are divided into two parts: E-Bike and E-Scooter trips, totaling 36 and 30 trips, respectively. The E-Bike data were collected using the [Electric Trekking Bike T1](https://eleglide.com/products/removable-battery-100km-range-electric-trekking-touring-bike-t1) of Eleglide E-bike, and the E-Scooter data from the [Mi Electric Scooter Pro 2](https://www.xiaomi.ie/mi-electric-scooter-pro-2/) of Xiaomi E-Scooter.
 
 ## E-Bike Dataset
 The E-Bike featured in our dataset includes a 250 W motor with a top speed of 25 km/h, a range of 100 km, and a 450 Wh battery. It is equipped with a power assist module offering five levels of assist/electric mode corresponding to different speeds. Our dataset captures various real-world scenarios by including trip attributes for different pedal assist levels.
 
 ### Data Collection Setup
-We employed the iGS630 of iGPSPORT GPS Bike Computer [iGPSPORT](https://www.igpsport.com/igs630-highlights) GPS Bike Computer and [LivLov V2](https://www.amazon.co.uk/LIVLOV-V2-Cadence-Speed-Sensor/dp/B08XNHDN6F?ref_=ast_sto_dp) Bike Cadence and Speed Sensors for data collection. Attributes such as timestamps, GPS coordinates, altitude, speed, assistance level, and distance were recorded.
+We employed the [iGS630 of iGPSPORT GPS Bike Computer](https://www.igpsport.com/igs630-highlights) and [LivLov V2 Bike Cadence and Speed Sensors](https://www.amazon.co.uk/LIVLOV-V2-Cadence-Speed-Sensor/dp/B08XNHDN6F?ref_=ast_sto_dp) for data collection. Attributes such as timestamps, GPS coordinates, altitude, speed, assistance level, and distance were recorded.
 
 ### Data Processing
 
@@ -35,11 +35,11 @@ Two mobile applications were employed to gather attributes of E-Scooter trips, e
 
 This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. 
 
-### _Data Regulation & Ethics Statement_
+# Data Regulation & Ethics Statement
 
 This research involving human participants was reviewed and approved by the Data Protection Office and Research Ethics Committee, Dublin City University with reference number _DCUREC/2023/025_. Written informed consent for participation was acquired for this study in accordance with the national legislation and the institutional requirements.
     
-### _Acknowledgement_
+# Acknowledgement
 
 This research was conducted with the financial support of Science Foundation Ireland _21/FFP-P/10266_ and _12/RC/2289\_P2_ at Insight the SFI Research Centre for Data Analytics at Dublin City University. For the purpose of Open Access, the author has applied a CC BY public copyright licence to any Author Accepted Manuscript version arising from this submission.
 

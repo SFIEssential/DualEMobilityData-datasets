@@ -33,7 +33,7 @@ Data attributes were collected using two mobile applications: Mi Home for the Xi
 
 This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. Please follow the contribution guidelines for submitting your improvements or use cases.
 
-# _Data Regulation & Ethics Statement   _
+# _Data Regulation & Ethics Statement_
 
 This research involving human participants was reviewed and approved by the Data Protection Office and Research Ethics Committee, Dublin City University with reference number \textit{DCUREC/2023/025}. Written informed consent for participation was acquired for this study in accordance with the national legislation and the institutional requirements.
     

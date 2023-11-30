@@ -8,7 +8,7 @@ Our datasets are divided into two parts: E-Bike and E-Scooter trips, totaling 36
 The E-Bike featured in our dataset includes a 250 W motor with a top speed of 25 km/h, a range of 100 km, and a 450 Wh battery. It is equipped with a power assist module offering five levels of assist/electric mode corresponding to different speeds. Our dataset captures various real-world scenarios by including trip attributes for different pedal assist levels.
 
 ### Data Collection Setup
-We employed the iGS630 of iGPSPORT GPS Bike Computer [iGPSPORT](https://www.igpsport.com/igs630-highlights) GPS Bike Computer and [LivLov V2](https://www.amazon.co.uk/LIVLOV-V2-Cadence-Speed-Sensor/dp/B08XNHDN6F?ref_=ast_sto_dp) Bike Cadence and Speed Sensors LivLov V2 Sensors for data collection. Attributes such as timestamps, GPS coordinates, altitude, speed, assistance level, and distance were recorded.
+We employed the iGS630 of iGPSPORT GPS Bike Computer [iGPSPORT](https://www.igpsport.com/igs630-highlights) GPS Bike Computer and [LivLov V2](https://www.amazon.co.uk/LIVLOV-V2-Cadence-Speed-Sensor/dp/B08XNHDN6F?ref_=ast_sto_dp) Bike Cadence and Speed Sensors for data collection. Attributes such as timestamps, GPS coordinates, altitude, speed, assistance level, and distance were recorded.
 
 ### Data Processing
 

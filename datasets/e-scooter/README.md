@@ -1,1 +1,6 @@
-The data directory contains two sub directories. One is 'data_with_real_timestamp', another is 'data_with_relative_timestamp'. The data with real timestamp contains data has the original timestamp when collecting that trip. The data with relative timestamp contains data whose timestamp is calculated by the time difference from the start of each trip.
+Under the 'e-scooter' directory lies the `data` directory containing all the collected data. This `data` directory is divided into two subdirectories: 
+
+1. `data_with_real_timestamp`: This directory contains data with the original timestamp from when each trip was collected.
+2. `data_with_relative_timestamp`: This directory holds data whose timestamps are calculated based on the time difference from the start of each trip.
+
+Additionally, there is a `data_summary.csv` file under the 'e-scooter' directory. This file provides a summary of each trip, including characteristics such as start time, weather, and altitude difference. There is also a `scooter_fake_data_new_file.csv` file.

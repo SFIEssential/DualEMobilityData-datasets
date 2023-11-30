@@ -35,11 +35,11 @@ This repository is open for academic and research purposes. We encourage contrib
 
 # _Data Regulation & Ethics Statement_
 
-This research involving human participants was reviewed and approved by the Data Protection Office and Research Ethics Committee, Dublin City University with reference number \textit{DCUREC/2023/025}. Written informed consent for participation was acquired for this study in accordance with the national legislation and the institutional requirements.
+This research involving human participants was reviewed and approved by the Data Protection Office and Research Ethics Committee, Dublin City University with reference number _DCUREC/2023/025_. Written informed consent for participation was acquired for this study in accordance with the national legislation and the institutional requirements.
     
 # _Acknowledgement_
 
-This research was conducted with the financial support of Science Foundation Ireland \textit{21/FFP-P/10266} and \textit{12/RC/2289\_P2} at Insight the SFI Research Centre for Data Analytics at Dublin City University. For the purpose of Open Access, the author has applied a CC BY public copyright licence to any Author Accepted Manuscript version arising from this submission.
+This research was conducted with the financial support of Science Foundation Ireland _21/FFP-P/10266_ and _12/RC/2289\_P2_ at Insight the SFI Research Centre for Data Analytics at Dublin City University. For the purpose of Open Access, the author has applied a CC BY public copyright licence to any Author Accepted Manuscript version arising from this submission.
 
 
 # License

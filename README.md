@@ -2,7 +2,9 @@
 Welcome to our repository focused on E-Bike and E-Scooter trips. We aim to offer open-source datasets for E-Mobility research, particularly in urban commuting using electric bikes and scooters. These datasets, collected around Dublin City University, consider key factors influencing energy consumption.
 
 # Dataset Description
-Our datasets are divided into two parts: E-Bike and E-Scooter trips, totaling 36 and 30 trips, respectively. The E-Bike data were collected using the [Electric Trekking Bike T1](https://eleglide.com/products/removable-battery-100km-range-electric-trekking-touring-bike-t1) of Eleglide E-bike, and the E-Scooter data from the [Mi Electric Scooter Pro 2](https://www.xiaomi.ie/mi-electric-scooter-pro-2/) of Xiaomi E-Scooter.
+Our datasets are divided into two parts: E-Bike and E-Scooter trips, totaling 36 and 30 trips, respectively. The E-Bike data were collected using the [Electric Trekking Bike T1](https://eleglide.com/products/removable-battery-100km-range-electric-trekking-touring-bike-t1) of Eleglide E-bike, and the E-Scooter data from the [Mi Electric Scooter Pro 2](https://www.xiaomi.ie/mi-electric-scooter-pro-2/) of Xiaomi E-Scooter. The process of data collection is presented in the picture below.
+
+![datasets](./img/datasets.png)
 
 ## E-Bike Dataset
 The E-Bike featured in our dataset includes a 250 W motor with a top speed of 25 km/h, a range of 100 km, and a 450 Wh battery. It is equipped with a power assist module offering five levels of assist/electric mode corresponding to different speeds. Our dataset captures various real-world scenarios by including trip attributes for different pedal assist levels.
@@ -31,7 +33,12 @@ Two mobile applications were employed to gather attributes of E-Scooter trips, e
 - **Data Integration**: Integrating data from mobile applications using timestamps.
 - **Weather Data Incorporation & Data Generation**: Employing methods similar to the E-Bike dataset.
 
-  
+## Sample Data Visualisation
+
+<p float="left">
+  <img src="./img/scooter_trip.png" style="width: 33%;" />
+  <img src="/.img/scooter_analysis.png" style="width: 66%;" />
+</p>
 
 This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. 
 

@@ -36,7 +36,7 @@ Two mobile applications were employed to gather attributes of E-Scooter trips, e
 ## Sample Data Visualisation
 
 <p float="left">
-  <img src="./img/scooter_trip.png" style="width: 33%;" />
+  <img src="./img/scooter_trip.png" style="width: 32%;" />
   <img src="./img/scooter_analysis.png" style="width: 67%;" />
 </p>
 

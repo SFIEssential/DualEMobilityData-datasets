@@ -37,7 +37,7 @@ Two mobile applications were employed to gather attributes of E-Scooter trips, e
 
 <p float="left">
   <img src="./img/scooter_trip.png" style="width: 33%;" />
-  <img src="/.img/scooter_analysis.png" style="width: 66%;" />
+  <img src=".img/scooter_analysis.png" style="width: 66%;" />
 </p>
 
 This repository is open for academic and research purposes. We encourage contributions and feedback to enhance the datasets' quality and applicability. 

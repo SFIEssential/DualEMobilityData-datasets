@@ -34,7 +34,7 @@ Two mobile applications were employed to gather attributes of E-Scooter trips, e
 - **Weather Data Incorporation & Data Generation**: Employing methods similar to the E-Bike dataset.
 
 ## Sample Data Visualisation
-
+A sample E-Scooter trip (Trip 27) is analysed and visualised in the pictures below.
 <p float="left">
   <img src="./img/scooter_trip.png" style="width: 32%;" />
   <img src="./img/scooter_analysis.png" style="width: 66%;" />

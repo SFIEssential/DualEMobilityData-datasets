@@ -14,7 +14,7 @@ We employed the [iGS630 of iGPSPORT GPS Bike Computer](https://www.igpsport.com/
 
 ### Data Processing
 
-- **Data Integration**: Merging data from devices for a unified dataset.
+- **Data Integration**: Merging data from devices for a unified dataset
 - **SOC Calculation**: Using a custom nonlinear equation for accurate SOC estimation.
 - **Energy Efficiency Calculations**: Measuring energy consumption and efficiency.
 - **Weather Data Incorporation**: Adding weather data from [Weather25](https://www.weather25.com/europe/ireland/leinster/dublin).

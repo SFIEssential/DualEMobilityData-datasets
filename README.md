@@ -23,7 +23,7 @@ We employed the iGS630 of iGPSPORT GPS Bike Computer [iGPSPORT](https://www.igps
 Our E-Scooter dataset features the Mi Electric Scooter Pro 2, equipped with a 600-watt motor and a high-capacity 446 Wh lithium battery. The scooter offers three speed modes, and our data collection focused on the sports mode (0-25 km/h).
 
 ### Data Collection Setup
-Data attributes were collected using two mobile applications: Mi Home for the Xiaomi E-Scooter Mi Home App and GPS-Tracker Pro for tracking GPS-Tracker Pro.
+Two mobile applications were employed to gather attributes of E-Scooter trips, encompassing timestamp, GPS coordinates, altitude, speed, and SOC. The SOC was extracted from screen recordings using Xiaomi’s official mobile application, [Mi Home](https://play.google.com/store/apps/details?id=com.xiaomi.smarthome&hl=en_US&pli=1), on an Android device (SAMSUNG Galaxy A53), while other attributes were directly acquired via a GPS tracking mobile application, [GPS-Tracker Pro](https://apps.apple.com/us/app/gps-tracker-pro/id984920064), on an Apple device (iPhone 11).
 
 ### Data Processing
 

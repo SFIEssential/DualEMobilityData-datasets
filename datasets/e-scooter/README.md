@@ -1,0 +1,1 @@
+The data directory contains two sub directories. One is 'data_with_real_timestamp', another is 'data_with_relative_timestamp'. The data with real timestamp contains data has the original timestamp when collecting that trip. The data with relative timestamp contains data whose timestamp is calculated by the time difference from the start of each trip.

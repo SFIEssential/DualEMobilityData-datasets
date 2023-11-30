@@ -11,13 +11,13 @@ The E-Bike featured in our dataset includes a 250 W motor with a top speed of 25
 We employed the iGS630 of iGPSPORT GPS Bike Computer iGPSPORT GPS Bike Computer and LivLov V2 Bike Cadence and Speed Sensors LivLov V2 Sensors for data collection. Attributes such as timestamps, GPS coordinates, altitude, speed, assistance level, and distance were recorded.
 
 ### Data Processing
-Key steps in data processing include:
 
-Data Integration: Merging data from devices for a unified dataset.
-SOC Calculation: Using a custom nonlinear equation for accurate SOC estimation.
-Energy Efficiency Calculations: Measuring energy consumption and efficiency.
-Weather Data Incorporation: Adding weather data from Weather25 Weather25.
-Synthetic Data Generation: Creating a synthetic dataset with Python's Synthetic Data Vault library.
+- **Data Integration**: Merging data from devices for a unified dataset.
+- **SOC Calculation**: Using a custom nonlinear equation for accurate SOC estimation.
+- **Energy Efficiency Calculations**: Measuring energy consumption and efficiency.
+- **Weather Data Incorporation**: Adding weather data from [Weather25](https://www.weather25.com/europe/ireland/leinster/dublin).
+- **Synthetic Data Generation**: Creating a synthetic dataset with Python's Synthetic Data Vault library.
+
 
 ## E-Scooter Dataset
 Our E-Scooter dataset features the Mi Electric Scooter Pro 2, equipped with a 600-watt motor and a high-capacity 446 Wh lithium battery. The scooter offers three speed modes, and our data collection focused on the sports mode (0-25 km/h).
